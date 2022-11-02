@@ -4,7 +4,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlarltj123)](https://solved.ac/rlarltj123/)
 
 
-<h4>🌱 Learning </h4>
+<h4>🌱 Learning (since 2022.02)</h4>
 
 ![](https://img.shields.io/badge/Java-007396?style=plastic&logo=OpenJDK&logoColor=white")
 ![](https://img.shields.io/badge/Spring-6db33f?style=plastic&logo=Spring&logoColor=black")
