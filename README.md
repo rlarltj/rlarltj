@@ -1,20 +1,25 @@
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlarltj&show_icons=true&theme=vue)
+  
+<br>
+  
+[![Dev Blog Badge](http://img.shields.io/badge/-Dev%20Blog-316B83?style=flat&logo=tistory&link=https://mr-popo.tistory.com/)](https://mr-popo.tistory.com)
+[![Resume Badge](http://img.shields.io/badge/-Resume-63B4B8?style=flat&logo=notion&link=https://rattle-rock-01f.notion.site/fc53e6fdf9e54514a62e4b2b9fb5feb3)](https://rattle-rock-01f.notion.site/fc53e6fdf9e54514a62e4b2b9fb5feb3)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-5F939A?style=flat&logo=Gmail&logoColor=white&link=mailto:rlarltj1234@gmail.com)](mailto:rlarltj1234@gmail.com)
 
-<h4>⚡ Baekjoon rank</h4>
+</div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlarltj123)](https://solved.ac/rlarltj123/)
+🏫 __Education__
+- 서울시립대학교 행정학과(2016.03 ~ 2023.02)
+- 프로그래머스 데브코스 3기(2022.10 ~ 2023.03)
 
-
-<h4>🌱 Learning (since 2022.02)</h4>
-
-![](https://img.shields.io/badge/Java-007396?style=plastic&logo=OpenJDK&logoColor=white")
-![](https://img.shields.io/badge/Spring-6db33f?style=plastic&logo=Spring&logoColor=black")
-![](https://img.shields.io/badge/SpringBoot-6db33f?style=plastic&logo=SpringBoot&logoColor=white")
-
-![](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL")
-
-![IntelliJ](https://img.shields.io/badge/intelli%20J-000000.svg?&style=plastic&logo=IntelliJ%20IDEA&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=plastic&logo=Eclipse%20IDE&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=plastic&logo=Visual%20Studio%20Code&logoColor=white)
+🌱 __Learning (since 2022.02)__  
+<br>
+<img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-green?style=flat-square&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MariaDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=Git&logoColor=white"/>
 
 <!--
 **rlarltj/rlarltj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
