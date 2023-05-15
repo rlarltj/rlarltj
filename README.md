@@ -3,9 +3,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlarltj&show_icons=true&theme=vue)
   
 <br>
-  
+
 [![Dev Blog Badge](http://img.shields.io/badge/-Dev%20Blog-316B83?style=flat&logo=tistory&link=https://mr-popo.tistory.com/)](https://mr-popo.tistory.com)
-[![Resume Badge](http://img.shields.io/badge/-Resume-63B4B8?style=flat&logo=notion&link=https://rattle-rock-01f.notion.site/fc53e6fdf9e54514a62e4b2b9fb5feb3)](https://rattle-rock-01f.notion.site/fc53e6fdf9e54514a62e4b2b9fb5feb3)
+[![Resume Badge](http://img.shields.io/badge/-Resume-63B4B8?style=flat&logo=notion&link=https://rattle-rock-01f.notion.site/e0803c63774d4a809ac9d32ce9486338)](https://rattle-rock-01f.notion.site/e0803c63774d4a809ac9d32ce9486338)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-5F939A?style=flat&logo=Gmail&logoColor=white&link=mailto:rlarltj1234@gmail.com)](mailto:rlarltj1234@gmail.com)
 
 </div>
