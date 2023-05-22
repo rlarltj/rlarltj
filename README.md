@@ -5,7 +5,7 @@
 <br>
 
 [![Dev Blog Badge](http://img.shields.io/badge/-Dev%20Blog-316B83?style=flat&logo=tistory&link=https://mr-popo.tistory.com/)](https://mr-popo.tistory.com)
-[![Resume Badge](http://img.shields.io/badge/-Resume-63B4B8?style=flat&logo=notion&link=https://rattle-rock-01f.notion.site/e0803c63774d4a809ac9d32ce9486338)](https://rattle-rock-01f.notion.site/e0803c63774d4a809ac9d32ce9486338)
+[![Resume Badge](http://img.shields.io/badge/-Resume-63B4B8?style=flat&logo=notion&link=https://rattle-rock-01f.notion.site/50a327bad16d4595bfc6fd6474533a12)](https://rattle-rock-01f.notion.site/50a327bad16d4595bfc6fd6474533a12)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-5F939A?style=flat&logo=Gmail&logoColor=white&link=mailto:rlarltj1234@gmail.com)](mailto:rlarltj1234@gmail.com)
 
 </div>
