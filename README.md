@@ -11,16 +11,11 @@
 </div>
 
 
-🏫 __Education__
+🏫 __Experience__
 - 서울시립대학교 행정학과(2016.03 ~ 2023.02)
 - 프로그래머스 데브코스 3기(2022.10 ~ 2023.03)
+- YAPP 23rd(2023.10 ~ 2024.02)
 
-🌱 __Learning (since 2022.02)__  
-<br>
-<img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-green?style=flat-square&logo=Spring Boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MariaDB&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=Git&logoColor=white"/>
 
 <!--
 **rlarltj/rlarltj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
