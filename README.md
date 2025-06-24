@@ -15,7 +15,7 @@
 - 서울시립대학교 행정학과(2016.03 ~ 2023.02)
 - 프로그래머스 데브코스 3기(2022.10 ~ 2023.03)
 - YAPP 23rd(2023.10 ~ 2024.02)
-
+- Class101(2023.06~)
 
 <!--
 **rlarltj/rlarltj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
